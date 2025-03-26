@@ -1,79 +1,24 @@
 ---
-title: "Astro Nano"
-description: "Minimal portfolio and blog build with astro and no frameworks."
-date: "Mar 26 2024"
-demoURL: "https://astro-nano-demo.vercel.app"
-repoURL: "https://github.com/markhorn-dev/astro-nano"
+title: "CiberTopia"
+description: "A pioneering EdTech project merging cyber safety education, entertainment, and gaming to protect children online."
+date: "Feb 2025"
+linkToWebsite: ""
+repoURL: ""
 ---
 
-![Astro Nano](/astro-nano.png)
+As a pioneer in the Learn+Play/EdTech space, **CiberTopia** is dedicated to securing children’s digital security and online safety through a unique blend of education, entertainment, and gaming. We created CiberTopia to ensure that every child with computer and internet access can receive a world-class cyber safety education and benefit from our innovative gaming model, all while enabling parents to partially finance their children’s future education.
 
-Astro Nano is a static, minimalist, lightweight, lightning fast portfolio and blog theme.
+CiberTopia is more than just a game—it’s an educational ecosystem designed to guide children from preschool through high school. By teaching digital literacy and reducing the cybersecurity skills gap in Latin America, the platform empowers schools to better protect their students from cyber-attacks and digital risks.
 
-Built with Astro, Tailwind and Typescript, an no frameworks.
+**Our Mission:**  
+To create a revolutionary, engaging, and accessible cyber education experience that is both fun and valuable, scalable to all Spanish-speaking countries. Our goal is to accelerate learning outcomes by continuously updating our platform to keep pace with evolving technologies and threats.
 
-It was designed as an even more minimal theme than my popular theme [Astro Sphere](https://github.com/markhorn-dev/astro-sphere)
+**Our Vision:**  
+We are building the world’s most popular educational RPG where millions of players transform their passion for gaming into essential skills for digital safety. As the internet becomes ever more integral to daily life, our vision is to equip children with the ability to navigate and thrive in a digital world—keeping them safe and prepared for the future.
 
-## 🚀 Deploy your own
+**Key Pillars of the CiberTopia Strategy:**
+- **Adaptability:** Evolve our business and educational platform as new technologies emerge.
+- **Holistic Education:** Teach children how to think critically about digital safety, not just what to think.
+- **Community & Collaboration:** Foster an ecosystem where parents, teachers, and students work together to create a safer online environment.
 
-<div class="flex gap-2">
-  <a target="_blank" aria-label="Deploy with Vercel" href="https://vercel.com/new/clone?repository-url=https://github.com/markhorn-dev/astro-nano">
-    <img src="/deploy_vercel.svg" />
-  </a>
-  <a target="_blank" aria-label="Deploy with Netlify" href="https://app.netlify.com/start/deploy?repository=https://github.com/markhorn-dev/astro-nano">
-    <img src="/deploy_netlify.svg" />
-  </a>
-</div>
-
-## 📋 Features
-
-- ✅ 100/100 Lighthouse performance
-- ✅ Responsive
-- ✅ Accessible
-- ✅ SEO-friendly
-- ✅ Typesafe
-- ✅ Minimal style
-- ✅ Light/Dark Theme
-- ✅ Animated UI
-- ✅ Tailwind styling
-- ✅ Auto generated sitemap
-- ✅ Auto generated RSS Feed
-- ✅ Markdown support
-- ✅ MDX Support (components in your markdown)
-
-## 💯 Lighthouse score
-![Astro Nano Lighthouse Score](/lighthouse.png)
-
-## 🕊️ Lightweight
-No frameworks or added bulk
-
-## ⚡︎ Fast
-Rendered in ~40ms on localhost
-
-## 📄 Configuration
-
-The blog posts on the demo serve as the documentation and configuration.
-
-## 💻 Commands
-
-All commands are run from the root of the project, from a terminal:
-
-Replace npm with your package manager of choice. `npm`, `pnpm`, `yarn`, `bun`, etc
-
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run dev:network`     | Starts local dev server on local network         |
-| `npm run sync`            | Generates TypeScript types for all Astro modules.|
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run preview:network` | Preview build on local network                   |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
-| `npm run lint`            | Run ESLint                                       |
-| `npm run lint:fix`        | Auto-fix ESLint issues                           |
-
-## 🏛️ License
-
-MIT
+This project is currently in its early stages, and I’m actively engaging with investors to further develop and refine the platform. Stay tuned for more updates as CiberTopia evolves or feel free to reach out if interested.

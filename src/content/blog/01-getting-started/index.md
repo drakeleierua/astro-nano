@@ -1,73 +1,10 @@
 ---
-title: "Getting started"
-description: "Hit the ground running."
-date: "Mar 22 2024"
+title: "First memories of my online journey"
+description: "How I got introduced to the power of the internet."
+date: "Dec 20 2024"
 ---
+I still remember the thrill of discovering the internet’s potential as a kid. Sitting in front of that clunky PC running Windows XP, clicking all types of crazy links & downloading countless viruses. Not all of these were failures, as one of my first success stories is a huge reason as to why I'm here today. I managed to install an unlimited coin generator on Club Penguin, my favorite online game at the time. I could simply type in any username and the amount of coins I wanted to gift, and it actually worked! That experience lit a spark in me—a spark to explore, understand, and ultimately manipulate different types of software.
 
-The basic configuration of Nano is pretty simple.
+This early fascination with video game exploits led me down a rabbit hole of digital mischief. I spent countless hours learning how systems worked, from jailbreaking iOS devices and consoles to even tinkering with hardware when I could. When Pokémon Go came out, I took things a step further by spoofing my location to catch any Pokémon I wanted—and even helped friends snag their favorites.
 
-Edit `src/consts.ts`
-
-Customize the base site
-
-```ts 
-// src/consts.ts
-
-export const SITE: Site = {
-  NAME: "Astro Nano",
-  EMAIL: "markhorn.dev@gmail.com",
-  NUM_POSTS_ON_HOMEPAGE: 3,
-  NUM_WORKS_ON_HOMEPAGE: 2,
-  NUM_PROJECTS_ON_HOMEPAGE: 3,
-};
-```
-
-| Field | Req | Description |
-| :---- | :-- | :-----------|
-| NAME | Yes | Displayed in header and footer. Used in SEO and RSS. |
-| EMAIL | Yes | Displayed in contact section. |
-| NUM_POSTS | Yes | Limit num of posts on home page. |
-| NUM_WORKS | Yes | Limit num of works on home page. |
-| NUM_PROJECTS | Yes | Limit num of projects on home page. |
-
-Customize your page metadata
-
-```ts 
-// src/consts.ts
-
-export const HOME: Metadata = {
-  TITLE: "Home",
-  DESCRIPTION: "Astro Nano is a minimal and lightweight blog and portfolio.",
-};
-```
-
-| Field | Req | Description |
-| :---- | :-- | :-----------|
-| TITLE | Yes | Displayed in browser tab. Used in SEO and RSS. |
-| DESCRIPTION | Yes | Used in SEO and RSS. |
-
-Customize your social media
-
-```ts 
-// src/consts.ts
-
-export const SOCIALS: Socials = [
-  { 
-    NAME: "twitter-x",
-    HREF: "https://twitter.com/markhorn_dev",
-  },
-  { 
-    NAME: "github",
-    HREF: "https://github.com/markhorn-dev"
-  },
-  { 
-    NAME: "linkedin",
-    HREF: "https://www.linkedin.com/in/markhorn-dev",
-  }
-];
-```
-
-| Field | Req | Description |
-| :---- | :-- | :-----------|
-| NAME | Yes | Displayed in contact section as a link. |
-| HREF | Yes | External url to social media profile. |
+While none of these exploits turned into a serious business venture, they set the foundation for my lifelong passion for technology and eventually cybersecurity. Those early adventures taught me to think critically about how systems can be manipulated and sparked a fire within me forever and is exactly what led me to where I am today.

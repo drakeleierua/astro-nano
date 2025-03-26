@@ -1,76 +1,21 @@
 ---
-title: "Astro Sphere"
-description: "Portfolio and blog build with astro."
-date: "Mar 18 2024"
-demoURL: "https://astro-sphere-demo.vercel.app"
-repoURL: "https://github.com/markhorn-dev/astro-sphere"
+title: "TheDemiCup"
+description: "An in-depth look at my work transforming DemiCup's e-commerce platform."
+date: "Mar 10 2025"
+linkToWebsite: ""
+repoURL: ""
 ---
 
-![Astro Sphere Lighthouse Score](/astro-sphere.jpg)
-
-Astro Sphere is a static, minimalist, lightweight, lightning fast portfolio and blog theme based on my personal website.
-
-It is primarily Astro, Tailwind and Typescript, with a very small amount of SolidJS for stateful components.
-
-## 🚀 Deploy your own
-
-<div class="flex gap-2">
-  <a target="_blank" aria-label="Deploy with Vercel" href="https://vercel.com/new/clone?repository-url=https://github.com/markhorn-dev/astro-sphere">
-    <img src="/deploy_vercel.svg" />
+<p style="margin-top: -12px;">
+  <a href="https://demicup.com" target="_blank" style="font-weight: bold; font-size: 1.1rem;">
+    🌐 Visit Website →
   </a>
-  <a target="_blank" aria-label="Deploy with Netlify" href="https://app.netlify.com/start/deploy?repository=https://github.com/markhorn-dev/astro-sphere">
-    <img src="/deploy_netlify.svg" />
-  </a>
-</div>
+</p>
 
-## 📋 Features
+I worked on transforming [DemiCup](https://demicup.com)'s digital storefront by developing custom e-commerce solutions that streamlined product uploads and enhanced client engagement. My contributions included:
 
-- ✅ 100/100 Lighthouse performance
-- ✅ Responsive
-- ✅ Accessible
-- ✅ SEO-friendly
-- ✅ Typesafe
-- ✅ Minimal style
-- ✅ Light/Dark Theme
-- ✅ Animated UI
-- ✅ Tailwind styling
-- ✅ Auto generated sitemap
-- ✅ Auto generated RSS Feed
-- ✅ Markdown support
-- ✅ MDX Support (components in your markdown)
-- ✅ Searchable content (posts and projects)
+- **Optimizing Workflow:** Manually uploaded and organized products, saving over **$20,000** in third-party fees.
+- **Enhanced User Experience:** Created high-quality product descriptions and sourced professional images, improving navigation and online sales flow.
+- **Data-Driven Strategy:** Built a Python-based sentiment analysis tool to interpret client feedback and refine marketing approaches.
 
-## 💯 Lighthouse score
-![Astro Sphere Lighthouse Score](/lighthouse.png)
-
-## 🕊️ Lightweight
-All pages under 100kb (including fonts)
-
-## ⚡︎ Fast
-Rendered in ~40ms on localhost
-
-## 📄 Configuration
-
-The blog posts on the demo serve as the documentation and configuration.
-
-## 💻 Commands
-
-All commands are run from the root of the project, from a terminal:
-
-Replace npm with your package manager of choice. `npm`, `pnpm`, `yarn`, `bun`, etc
-
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run sync`            | Generates TypeScript types for all Astro modules.|
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
-| `npm run lint`            | Run ESLint                                       |
-| `npm run lint:fix`        | Auto-fix ESLint issues                           |
-
-## 🏛️ License
-
-MIT
+This project showcases my ability to combine **technical expertise** and **business strategy** to deliver tangible cost savings and an improved digital presence.
